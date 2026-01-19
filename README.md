@@ -1,6 +1,6 @@
 **Project Name: Project "Kulinerin"**
 
-**Owner: [Nama Anda] - AI Engineer Lead**
+**Owner: Arya Pratama Rhama Putra - AI Engineer Lead**
 
 **Date: January 19, 2026**
 
@@ -49,7 +49,7 @@ Fitur: Camera Capture Interface (Akses kamera via browser).
 
 [ ] Backend & Database:
 
-Setup Database (Firebase/Supabase) untuk User Data & Transaction Logs.
+Set up Database (Firebase/Supabase) untuk User Data & Transaction Logs.
 
 Schema Design: Users, Quests, Merchants, User_Logs.
 
